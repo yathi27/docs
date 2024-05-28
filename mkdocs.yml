@@ -1,0 +1,10 @@
+site_name: Test Docs
+nav:
+  - Introduction: introduction.md
+  - Asset Setup: about.md
+  - Add Region: index.md
+  - Add Product: add-product.md
+  - Add Site: add-site.md
+  - Add Area: add-area.md
+  - Edit Hierarchy Node: edit-hierarchy.md
+theme: readthedocs
